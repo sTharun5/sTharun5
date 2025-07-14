@@ -12,15 +12,19 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🧠 About Me
-- 🔭 I’m currently working on full-stack web development
-- 🌱 I’m learning **JavaScript**, **MongoDB**, and **React**
-- 📊 I’ve solved **278+ problems** on [LeetCode](https://leetcode.com/u/user3651Q/)
-- ⚡ I love building backend systems and solving real-world problems through code
+- 🚀 Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 💻 Passionate about building full-stack web applications
+- 📊 Solved **278+ problems** on [LeetCode](https://leetcode.com/u/user3651Q/)
+- ⚡ Love turning complex problems into working code
+- 📫 Contact me at: stharun612@gmail.com
 
 ---
 
