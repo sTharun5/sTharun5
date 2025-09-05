@@ -23,7 +23,7 @@
 ## 🧠 About Me
 - 🚀 Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 💻 Passionate about building full-stack web applications
-- 📊 Solved **278+ problems** on [LeetCode](https://leetcode.com/u/user3651Q/)
+- 📊 Solved **300+ problems** on [LeetCode](https://leetcode.com/u/user3651Q/)
 - ⚡ Love turning complex problems into working code
 - 📫 Contact me at: stharun612@gmail.com
 
