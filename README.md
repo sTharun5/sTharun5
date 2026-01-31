@@ -1,67 +1,57 @@
 # Tharun
 
-Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities  
+Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities
 
 ---
 
 ## About
-I am a software developer focused on building clean, reliable, and scalable web applications.  
-I enjoy working across the stack and continuously improving my problem-solving skills through hands-on projects and consistent practice.
+I am a software developer focused on building clean, scalable, and maintainable web applications.
+I enjoy working across the stack and continuously improving through consistent coding and problem solving.
 
-I value readable code, clear documentation, and long-term maintainability.
+I value readable code, clear documentation, and real-world impact.
 
 ---
 
 ## Skills
 
 **Languages**  
-C · Java · JavaScript  
+C · Java · JavaScript
 
 **Frontend**  
-HTML5 · CSS3 · React  
+HTML5 · CSS3 · React
 
 **Backend**  
-Node.js · Express.js  
+Node.js · Express.js
 
 **Databases**  
-MongoDB · MySQL  
+MongoDB · MySQL
 
 **Core Concepts**  
-Data Structures & Algorithms · REST APIs · Object-Oriented Programming · Git & GitHub  
+Data Structures & Algorithms · REST APIs · Object-Oriented Programming · Git & GitHub
 
 ---
 
 ## Experience & Learning
-- Building full-stack applications using the MERN stack  
-- Solved 300+ algorithmic problems (DSA & problem solving)  
-- Hands-on experience with SQL and NoSQL databases  
-- Familiar with collaborative development workflows and version control  
+- Building full-stack applications using the MERN stack
+- Solved 300+ algorithmic problems
+- Experience with SQL and NoSQL databases
+- Comfortable with version control and collaborative workflows
+
+---
+
+## GitHub Contributions
+![GitHub Contributions](https://ghchart.rshah.org/sTharun5)
 
 ---
 
 ## Selected Work
-Pinned repositories below represent my recent work and learning projects.  
-Each project focuses on clarity, correctness, and real-world applicability.
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sTharun5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sTharun5&hide_border=true)
-
----
-
-## Problem Solving
-- 300+ problems solved on LeetCode  
-- Strong focus on logic, optimization, and edge cases  
-- Comfortable with arrays, strings, recursion, stacks, queues, trees, and basic graphs  
+Pinned repositories below highlight my recent projects and learning work.
+Each repository focuses on clarity, correctness, and practical use cases.
 
 ---
 
 ## Contact
-- Email: **stharun612@gmail.com**  
+- Email: **stharun612@gmail.com**
 - LinkedIn: **https://linkedin.com/in/tharuntech**
 
 ---
