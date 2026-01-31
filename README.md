@@ -5,10 +5,10 @@ Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities
 ---
 
 ## About
-I am a software developer focused on building reliable, scalable, and maintainable web applications.  
-I enjoy working across the stack and continuously improving my problem-solving and system design skills.
+I am a software developer focused on building clean, reliable, and scalable web applications.  
+I enjoy working across the stack and continuously improving my problem-solving skills through hands-on projects and consistent practice.
 
-I believe in clean code, clear documentation, and consistent learning.
+I value readable code, clear documentation, and long-term maintainability.
 
 ---
 
@@ -34,13 +34,13 @@ Data Structures & Algorithms · REST APIs · Object-Oriented Programming · Git 
 ## Experience & Learning
 - Building full-stack applications using the MERN stack  
 - Solved 300+ algorithmic problems (DSA & problem solving)  
-- Hands-on experience with both SQL and NoSQL databases  
+- Hands-on experience with SQL and NoSQL databases  
 - Familiar with collaborative development workflows and version control  
 
 ---
 
 ## Selected Work
-Pinned repositories below highlight my recent work, experiments, and learning projects.  
+Pinned repositories below represent my recent work and learning projects.  
 Each project focuses on clarity, correctness, and real-world applicability.
 
 ---
