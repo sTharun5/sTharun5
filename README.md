@@ -1,49 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Tharun
 
-<!--
-**sTharun5/sTharun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🚀 Full-Stack Developer (MERN) | 🧠 DSA Enthusiast | 💻 Open to Learning  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharuntech) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stharun612@gmail.com) 
+---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharuntech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stharun612@gmail.com)
 
 ---
 
 ## 🧠 About Me
-- 🚀 Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 💻 Passionate about building full-stack web applications
-- 📊 Solved **300+ problems** on [LeetCode](https://leetcode.com/u/user3651Q/)
-- ⚡ Love turning complex problems into working code
-- 📫 Contact me at: stharun612@gmail.com
+- 🚀 Learning **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💻 Passionate about building **full-stack applications**
+- 📊 Solved **300+ DSA problems** on LeetCode
+- ⚡ Believe in **learning by committing code**
+- 🎯 Goal: Strong, consistent GitHub activity
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sTharun5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sTharun5&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sTharun5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📈 GitHub Commit Performance
+
+### 🏆 Commit-Based Developer Grade
+> 🎓 **Overall Commit Grade: 🟢 A**
+
+📌 *Grade calculated purely from commit consistency, streaks, and activity frequency.*
+
+### 📊 Grade Criteria (Commit-Only)
+| Grade | Commit Activity |
+|------|----------------|
+| **A+** | Daily commits, long streaks (60+ days), high consistency |
+| **A** | Frequent commits, active weekly, good streaks |
+| **B** | Moderate commits, irregular gaps |
+| **C** | Low commit frequency |
+| **D** | Rare or inactive commits |
 
 ---
 
-## 💡 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/user3651Q?theme=dark&font=Montserrat)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sTharun5&theme=blue_navy&include_all_commits=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sTharun5&theme=blue_navy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=blue_navy)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sTharun5&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=sTharun5&icon=0&color=0)
