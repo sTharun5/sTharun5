@@ -29,23 +29,21 @@
 
 ---
 
-## 🏆 GitHub Achievements (Grade Style)
+## 🏅 GitHub Grade & Ranking
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sTharun5&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://metrics.lecoq.io/sTharun5?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" />
 
 ---
 
-## 📊 GitHub Profile Summary (NEW STYLE)
+## 🏆 GitHub Achievements (Grade Style)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sTharun5&theme=github_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sTharun5&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sTharun5&theme=github_dark)
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sTharun5&theme=github_dark)
+## 🎖 Developer Level Badge
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sTharun5&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sTharun5&theme=github_dark&utcOffset=5.5)
+![GitHub followers](https://img.shields.io/github/followers/sTharun5?label=Developer%20Level&style=for-the-badge)
 
 ---
 
