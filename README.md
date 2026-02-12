@@ -1,59 +1,79 @@
-# Tharun
-
-Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities
-
----
-
-## About
-I am a software developer focused on building clean, scalable, and maintainable web applications.
-I enjoy working across the stack and continuously improving through consistent coding and problem solving.
-
-I value readable code, clear documentation, and real-world impact.
+<h1 align="center">Hi 👋, I'm Tharun</h1>
+<h3 align="center">Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities</h3>
 
 ---
 
-## Skills
+## 🚀 About Me
 
-**Languages**  
-C · Java · JavaScript
-
-**Frontend**  
-HTML5 · CSS3 · React
-
-**Backend**  
-Node.js · Express.js
-
-**Databases**  
-MongoDB · MySQL
-
-**Core Concepts**  
-Data Structures & Algorithms · REST APIs · Object-Oriented Programming · Git & GitHub
+- 💻 Full-stack developer building scalable web applications
+- 🧠 Strong in problem solving and clean coding
+- 🔥 MERN stack developer
+- 📈 Solved 300+ algorithmic problems
+- 🎯 Focused on real-world impactful projects
 
 ---
 
-## Experience & Learning
-- Building full-stack applications using the MERN stack
-- Solved 300+ algorithmic problems
-- Experience with SQL and NoSQL databases
-- Comfortable with version control and collaborative workflows
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
-## GitHub Contributions
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sTharun5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Performance
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sTharun5&show_icons=true&rank_icon=github)
+
+![Streak](https://streak-stats.demolab.com?user=sTharun5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sTharun5&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
 ![GitHub Contributions](https://ghchart.rshah.org/sTharun5)
 
 ---
 
-## Selected Work
+## 🐍 Contribution Snake (Auto Animation)
+
+![snake gif](https://github.com/sTharun5/sTharun5/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⭐ Selected Work
+
 Pinned repositories below highlight my recent projects and learning work.
-Each repository focuses on clarity, correctness, and practical use cases.
 
 ---
 
-## Contact
-- Email: **stharun612@gmail.com**
-- LinkedIn: **https://linkedin.com/in/tharuntech**
+## 📫 Contact
+
+- Email: stharun612@gmail.com
+- LinkedIn: https://linkedin.com/in/tharuntech
 
 ---
 
-*Building consistently. Learning continuously.*
+⭐ Building consistently. Learning continuously.
