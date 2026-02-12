@@ -5,57 +5,45 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer building scalable web applications
-- 🔥 MERN Stack Developer
-- 🧠 Strong in problem solving & clean coding
+- 💻 Full-Stack Developer focused on building scalable web applications
+- 🔥 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 🧠 Strong problem-solving mindset
 - 📈 Solved 300+ algorithmic problems
-- 🎯 Focused on real-world impactful projects
+- 🎯 Passionate about clean code and real-world impact
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Skills](https://skillicons.dev/icons?i=c,java,javascript)
-
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,react)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### Databases
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+**Languages:** C · Java · JavaScript  
+**Frontend:** HTML5 · CSS3 · React  
+**Backend:** Node.js · Express.js  
+**Databases:** MongoDB · MySQL  
+**Core Concepts:** Data Structures & Algorithms · REST APIs · OOP · Git & GitHub
 
 ---
 
-## 🏅 GitHub Grade & Ranking
+## 🏅 GitHub Developer Grade
 
-<img src="https://metrics.lecoq.io/sTharun5?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" />
-
----
-
-## 🏆 GitHub Achievements (Grade Style)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sTharun5&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://metrics.lecoq.io/sTharun5?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" />
+</p>
 
 ---
 
-## 🎖 Developer Level Badge
+## 🏆 GitHub Rank & Achievements
 
-![GitHub followers](https://img.shields.io/github/followers/sTharun5?label=Developer%20Level&style=for-the-badge)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Contributions](https://ghchart.rshah.org/sTharun5)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sTharun5&theme=onedark&no-frame=true&column=7" />
+</p>
 
 ---
 
-## ⭐ Selected Work
+## 📈 GitHub Contribution Graph
 
-Pinned repositories below highlight my recent projects and learning work.
+<p align="center">
+  <img src="https://ghchart.rshah.org/sTharun5" />
+</p>
 
 ---
 
