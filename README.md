@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=c,java,javascript)
+![Skills](https://skillicons.dev/icons?i=c,java,javascript)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,react)
@@ -35,13 +35,17 @@
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Profile Summary (NEW STYLE)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sTharun5&show_icons=true&rank_icon=github&theme=radical&cache_seconds=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sTharun5&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sTharun5&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sTharun5&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sTharun5&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sTharun5&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sTharun5&theme=github_dark&utcOffset=5.5)
 
 ---
 
