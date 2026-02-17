@@ -22,22 +22,9 @@
 **Core Concepts:** Data Structures & Algorithms · REST APIs · OOP · Git & GitHub
 
 ---
-
-## 🏅 GitHub Developer Grade
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/sTharun5?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" />
-</p>
-
----
-
-## 🏆 GitHub Rank & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sTharun5&theme=onedark&no-frame=true&column=7" />
-</p>
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sTharun5&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sTharun5&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=radical)
 
 ## 📈 GitHub Contribution Graph
 
