@@ -26,13 +26,6 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sTharun5&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=radical)
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/sTharun5" />
-</p>
-
----
 
 ## 📫 Contact
 
