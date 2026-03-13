@@ -1,37 +1,66 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">Full-Stack Developer (MERN) • Problem Solver • Open to Opportunities</h3>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
+
+<p align="center">
+I enjoy building scalable web applications and solving real-world problems through code.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer focused on building scalable web applications
-- 🔥 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- 🧠 Strong problem-solving mindset
-- 📈 Solved 300+ algorithmic problems
-- 🎯 Passionate about clean code and real-world impact
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** C · Java · JavaScript  
-**Frontend:** HTML5 · CSS3 · React  
-**Backend:** Node.js · Express.js  
-**Databases:** MongoDB · MySQL  
-**Core Concepts:** Data Structures & Algorithms · REST APIs · OOP · Git & GitHub
-
----
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sTharun5&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sTharun5&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=radical)
-
-
-## 📫 Contact
-
-- Email: **stharun612@gmail.com**
-- LinkedIn: **https://linkedin.com/in/tharuntech**
+- 🚀 Full-Stack Developer specializing in the **MERN Stack**
+- 🧠 Strong interest in **problem solving and clean architecture**
+- 📈 Solved **300+ algorithmic problems**
+- 💡 Passionate about building practical and scalable products
+- 🌱 Continuously learning new technologies
 
 ---
 
-⭐ Building consistently. Learning continuously.
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sTharun5&show_icons=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=sTharun5&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sTharun5&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:stharun612@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tharuntech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Building consistently • Learning continuously
+</p>
