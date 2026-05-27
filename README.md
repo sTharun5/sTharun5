@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun</h1>
+<h1 align="center">Hi, I'm Tharun</h1>
 <h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🚀 Full-Stack Developer specializing in the **MERN Stack**
 - 🧠 Strong interest in **problem solving and clean architecture**
@@ -17,7 +17,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -27,7 +27,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -45,7 +45,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ---
 
-## 🎨 Portfolio
+## Portfolio
 
 <p align="center">
 
@@ -57,7 +57,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -74,5 +74,5 @@ I enjoy building scalable web applications and solving real-world problems throu
 ---
 
 <p align="center">
-⭐ Building consistently • Learning continuously
+ Building consistently • Learning continuously
 </p>
