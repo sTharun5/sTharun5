@@ -9,7 +9,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 ##  About Me
 
-- 🚀 Backend Developer specializing in Java, Node.js, Express.js, and REST API development
+- 🚀 FullStack Developer specializing in Java, React.js, Node.js, Express.js and REST API development
 - 🧠 Strong interest in **problem solving and clean architecture**
 - 📈 Solved **300+ algorithmic problems**
 - 💡 Passionate about building practical and scalable products
