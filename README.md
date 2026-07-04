@@ -21,7 +21,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mysql,git,github" />
 
 </p>
 
