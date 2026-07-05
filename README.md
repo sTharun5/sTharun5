@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tharun</h1>
-<h3 align="center">Full Stack Developer | MERN Stack</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 I enjoy building scalable web applications and solving real-world problems through code.
